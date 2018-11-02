@@ -1,5 +1,5 @@
-# neobis-repo
-For API's task:
+# Courses
+
 In order for the project to function, you must install the programs installed in the file requirements.txt.
 To install them, enter the following command in the terminal: pip install -r requirements.txt 
 
