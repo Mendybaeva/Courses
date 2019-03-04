@@ -5,6 +5,7 @@ from rest_framework import status
 from .models import *
 
 # tests for all of project
+# write comments for reviewer
 
 
 class ModelsTestCase(TestCase):
