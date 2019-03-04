@@ -4,6 +4,10 @@ from rest_framework.test import APIClient
 from rest_framework import status
 from .models import *
 
+# tests for all of project
+# write comments for reviewer
+# write : python manage.py test
+
 
 class ModelsTestCase(TestCase):
 
